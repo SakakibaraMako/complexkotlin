@@ -3,8 +3,6 @@
  */
 package edu.uw.complexkotlin
 
-import org.omg.PortableServer.POAHelper
-
 class Library {
     fun someLibraryMethod(): Boolean {
         return true
